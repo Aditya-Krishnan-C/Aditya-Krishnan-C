@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Krishnan</h1>
+<h1 align="center">Hey, I'm Aditya Krishnan</h1>
 <h3 align="center">Passionate software developer with expertise in app development</h3>
 
 - 🌱 I’m currently learning **Flutter, OpenCV, HTML, CSS**
